@@ -1,4 +1,4 @@
-# Project – ESG 등급 변화 분석을 통한 기업 특성 및 평가 체계 이해
+# 01. Project – 주가 반응과 ESG 항목별 특성, 기업 규모 및 산업군 차이를 중심으로 한 ESG 등급 분석
 
 ## 📘 프로젝트 소개  
 ESG(Environmental, Social, Governance) 등급 변화가 기업의 단기 주가에 미치는 영향을 실증적으로 검토하고,  
